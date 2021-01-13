@@ -37,4 +37,5 @@ public class PrincipalRectangulo {
 			System.out.println(e.getMessage());
 		}
 	}
+	
 }
